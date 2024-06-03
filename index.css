@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.first-select{
+    width:100px !important;
+}
+.off-select{
+    width: 150px !important;
+}
